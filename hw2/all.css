@@ -1,0 +1,166 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Roboto:wght@300;400;500&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,500;1,700;1,900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+/* basic */
+.mt-05 {
+    margin-top: 4px;
+}
+.mt-1 {
+    margin-top: 8px;
+}
+.mt-2 {
+    margin-top: 16px;
+}
+.mt-3 {
+    margin-top: 24px;
+}
+.mt-4 {
+    margin-top: 32px;
+}
+.mt-5 {
+    margin-top: 40px;
+}
+.mt-6 {
+    margin-top: 48px;
+}
+.mt-7 {
+    margin-top: 56px;
+}
+.mt-8 {
+    margin-top: 64px;
+}
+.mt-9 {
+    margin-top: 72px;
+}
+.ml-2 {
+    margin-left: 16px;
+}
+.ml-3 {
+    margin-left: 24px;
+}
+.ml-4 {
+    margin-left: 32px;
+}
+.mr-2 {
+    margin-right: 16px;
+}
+.mr-2 {
+    margin-right: 24px;
+}
+.mx-3 {
+    margin: 0 24px;
+}
+.pl-3 {
+    padding-left: 24px;
+}
+.f-20 {
+    font-size: 20px;
+}
+.f-24 {
+    font-size: 24px;
+}
+.line-height-5 {
+    line-height: 1.5;
+}
+.mr-auto {
+    margin-right: auto;
+}
+.ml-auto {
+    margin-left: auto;
+}
+.mx-auto {
+    margin-right: auto; 
+    margin-left: auto;
+    text-align: center;
+}
+.border-top {
+    border-top: 1px solid #000;
+}
+.d-flex {
+    display: flex;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.justify-content-center {
+    justify-content: center;
+}
+.justify-content-between {
+    justify-content: space-between;
+}
+.align-items-center {
+    align-items: center;
+}
+.circle {
+    border-radius: 50%;
+}
+.text-white {
+    color: #FFFFFF;
+}
+.text-center {
+    text-align: center;
+}
+.bg-dark {
+    background-color: #000;
+}
+.fit-content {
+    width: fit-content;
+    block-size: fit-content;
+}
+.container {
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+header {
+    padding: 308px 0;
+    background-image: url("./assets//photo-1552393700-42696fb89bfa.png");
+    background-size: cover;
+    font-size: 24px;
+}
+h1 {
+    font-size: 80px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    line-height: 1.5;
+}
+h2 {
+    font-size: 64px;
+    font-weight: 500;
+}
+h3 {
+    line-height: 1.5;
+}
+.about-hr {
+    max-width: 384px;
+    margin-top: 24px;
+    margin-bottom: 28px;
+}
+.spot {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background-color: #891818;
+}
+.brand {
+    padding-top: 56px;
+    padding-bottom: 160px;
+}
+.works {
+    gap: 24px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+footer {
+    margin-top: 144px;
+    padding: 64px 0;
+}
+img {
+    display: block;
+}
